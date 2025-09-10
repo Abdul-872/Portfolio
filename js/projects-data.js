@@ -85,13 +85,13 @@ const projectsData = [
   },
   {
     id: "chat-application",
-    title: "Chat Application",
+    title: "AI-COMPONENTS-GENERATOR",
     short: "Real-time messaging app with Socket.io, user authentication, and group chat features",
     description:
       "A modern real-time chat application featuring instant messaging, group chats, user authentication, and file sharing. Built with Socket.io for real-time communication, React for the frontend, and Node.js for the backend with comprehensive user management.",
-    tech: ["React", "Socket.io", "Node.js", "Express", "MongoDB"],
-    github: "https://github.com/Abdul-872/chat-application",
-    live: "https://chat-app-demo.vercel.app",
+    tech: ["React","TAILWIND CSS", "GEMINI API", "JavaScript"],
+    github: "https://github.com/Abdul-872/AI-COMPONENTS-GENERATOR.git",
+    live: "https://ai-component-generator-oo4qr5lxc.vercel.app",
     tags: ["fullstack", "frontend", "backend"],
     features: [
       "Real-time messaging with Socket.io",
