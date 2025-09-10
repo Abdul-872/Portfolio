@@ -69,8 +69,8 @@ const projectsData = [
     description:
       "A professional portfolio website featuring modern design principles, smooth animations, and interactive elements. Built with performance and accessibility in mind, showcasing projects, skills, and professional experience with an elegant user interface.",
     tech: ["HTML5", "CSS3", "JavaScript", "Responsive Design", "Animations"],
-    github: "https://github.com/Abdul-872/personal-portfolio",
-    live: "https://abdulahad-portfolio.vercel.app",
+    github: "https://github.com/Abdul-872/Portfolio.git",
+    live: "https://abdul-872.github.io/Portfolio/",
     tags: ["frontend"],
     features: [
       "Interactive project showcase with filtering",
