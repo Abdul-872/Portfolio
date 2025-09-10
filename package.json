@@ -1,8 +1,13 @@
 {
-  "name": "my-v0-project",
-  "version": "0.1.0",
-  "private": true,
+  "name": "abdul-ahad-portfolio",
+  "version": "1.0.0",
+  "description": "Abdul Ahad's Personal Portfolio",
+  "main": "index.html",
   "scripts": {
-    "build": "echo 'no build script'"
-  }
+    "build": "echo 'Static site - no build required'",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": ["portfolio", "web-development", "frontend"],
+  "author": "Abdul Ahad",
+  "license": "MIT"
 }
